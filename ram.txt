@@ -1,0 +1,5 @@
+cat sample1.txt
+apple is a Fruit
+orange is a Fruit
+banana is a Fruit
+pappaya is a Fruit
